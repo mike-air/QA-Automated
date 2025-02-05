@@ -42,7 +42,7 @@ npx cypress open
 To run a specific test case, use the following command:
 
 ```bash
-npx cypress run --e2e --browser=chrome --spec "cypress/e2e/loadTime.cy.js"
+npx cypress run --e2e --browser=chrome --spec "cypress/e2e/test-case-1.cy.js"
 ```         
 Replace "test-case-1.cy.js" with the name of the test case you want to run.
 
